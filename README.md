@@ -27,3 +27,6 @@ To be updated as I gradually complete the course and solve the psets.
 
 ### [Week 3: Exceptions](https://cs50.harvard.edu/python/2022/psets/3/)
 * [Fuel Gauge](/week3/fuel/fuel.py)
+* [Felipe's Taqueria](/week3/taqueria/taqueria.py)
+* [Grocery List](/week3/grocery/grocery.py)
+* [Outdated](/week3/outdated/outdated.py)
