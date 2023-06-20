@@ -29,4 +29,4 @@ To be updated as I gradually complete the course and solve the psets.
 * [Fuel Gauge](/week3/fuel/fuel.py)
 * [Felipe's Taqueria](/week3/taqueria/taqueria.py)
 * [Grocery List](/week3/grocery/grocery.py)
-* [Outdated](/week3/outdated/outdated.py)
+* ⭐[Outdated](/week3/outdated/outdated.py)
