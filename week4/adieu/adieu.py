@@ -1,3 +1,23 @@
+import inflect
+
+p = inflect.engine()
+
+names = []
+
+while True:
+    try:
+        name = input("Name: ")
+    except EOFError:
+        print()
+        break
+    else:
+        names.append(name)
+
+print(f"Adieu, adieu, to {p.join(names)}")
+
+"""
+# code works but check50 is not accepting. In the hint it suggests to use inflect module with which it works.
+
 names = []
 
 while True:
@@ -18,3 +38,4 @@ for i in range(len(names)):
         print(", " + names[i], end = "")
     else:
         print(" and " + names[i], end = "")
+"""
