@@ -31,10 +31,16 @@ To be updated as I gradually complete the course and solve the psets.
 * [Grocery List](/week3/grocery/grocery.py)
 * ⭐[Outdated](/week3/outdated/outdated.py)
 
-  ### [Week 4: Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
+### [Week 4: Libraries](https://cs50.harvard.edu/python/2022/psets/4/)
 * [Emojize](/week4/emojize/emojize.py)
 * [Frank, Ian and Glen's Letters](/week4/figlet/figlet.py)
 * [Adieu, Adieu](/week4/adieu/adieu.py)
 * [Guessing Game](/week4/game/game.py)
 * [Little Professor](/week4/professor/professor.py)
 * [Bitcoin Price Index](/week4/bitcoin/bitcoin.py)
+
+### [Week 5: Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
+* [Testing my twttr](/week5/test_twttr/)
+* [Back to the Bank](/week5/test_bank/)
+* [Re-requesting a Vanity Plate](/week5/test_plates/)
+* ⭐[Refueling](/week5/test_fuel/)
