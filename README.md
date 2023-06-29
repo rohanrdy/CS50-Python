@@ -44,3 +44,9 @@ To be updated as I gradually complete the course and solve the psets.
 * [Back to the Bank](/week5/test_bank/)
 * [Re-requesting a Vanity Plate](/week5/test_plates/)
 * ⭐[Refueling](/week5/test_fuel/)
+
+### [Week 6: File I/O](https://cs50.harvard.edu/python/2022/psets/6/)
+* [Lines of Code](/week6/lines/lines.py)
+* [Pizza Py](/week6/pizza/pizza.py)
+* [Scourgify](/week6/scourgify/scourgify.py)
+* ⭐[CS50 P-Shirt](/week6/shirt/shirt.py)
